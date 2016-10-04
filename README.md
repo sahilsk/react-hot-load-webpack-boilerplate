@@ -1,5 +1,8 @@
 # react-hot-load-webpack-boilerplate
 
+video: http://javascriptplayground.com/blog/2016/06/react-webpack-workflow-screencast/
+
+
 ## Notes!
 
 - Testing blog: http://12devsofxmas.co.uk/2015/12/day-2-testing-react-applications/
